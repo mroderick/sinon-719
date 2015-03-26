@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jsdom": "^4.0.5",
+    "jsdom": "^1.5.0",
     "sinon": "^1.14.1"
   }
 }

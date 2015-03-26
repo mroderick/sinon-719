@@ -3,8 +3,12 @@
 This repository is for replicating the bug reported as [#719](https://github.com/cjohansen/Sinon.JS/issues/719) for Sinon.JS.
 
 ```
-$ nvm use 0.10.28
+$ nvm install iojs
 $ npm install
-$ node issue.js
+$ iojs issue.js
+
+global.document.parentWindow undefined
 ```
+
+
 
